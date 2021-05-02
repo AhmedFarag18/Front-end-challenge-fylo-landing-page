@@ -90,10 +90,6 @@ input {
     padding: 70px 0;
 }
 
-.nav-content .logo img {
-    height: 40px;
-}
-
 .nav-content {
     display: flex;
     align-items: center;
@@ -360,10 +356,6 @@ input {
 
 .footer .footer-info {
     padding: 50px 0;
-}
-
-.footer-logo {
-    width: 120px;
 }
 
 .footer-item-logo {
